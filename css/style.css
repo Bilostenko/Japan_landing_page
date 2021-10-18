@@ -83,7 +83,7 @@ padding-top: 62px;
 /* Intro styles start */
 .intro {
     min-height: 100vh;
-    background: url(../img/intro.jpg) no-repeat center;
+    background: url(../img/intro-min.jpg) no-repeat center;
     background-size: cover;
     padding-top: 20%;
 }
@@ -148,6 +148,7 @@ color: white;
 border: none;
 font-family: 'Lato', sans-serif;
 }
+
 
 .search-form__submit:hover, .search-form__submit:focus, .search-form__submit:active {
   background: #0e66da;
